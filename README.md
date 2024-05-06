@@ -1,6 +1,6 @@
 # Light_Intensity_Sensor
 
-This project utilises an LDR (Light dependant resistor) to measure the amount of light  at a ceratin time and uploading it to the cloud via esp 8266 wifi module. Then, plotting it using HTML programming. 
+This project utilises an LDR (Light dependant resistor) to measure the amount of light  at a ceratin time and uploading it to the cloud via esp 8266 wifi module(by BOLT IOT). Then, plotting it using HTML programming. 
 
 It has various applications such as:
 1) Automatic Lighting Control: Light intensity sensors are used in automatic lighting systems to adjust the brightness of lights based on the ambient light level. For example, they can be employed in streetlights to turn them on/off or dim them according to the natural light available.
