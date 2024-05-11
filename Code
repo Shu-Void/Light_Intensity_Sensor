@@ -1,0 +1,6 @@
+// HTML code utilised
+
+setChartLibrary('google-chart');
+setChartTitle('Your chart title');
+setChartType('areaGraph');
+plotChart("time_stamp","light");
